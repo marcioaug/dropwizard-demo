@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.dropwizard:dropwizard-auth:1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-auth/1.1.0/9879651ae0b9f474012cd8820984cbed9ea3250a/dropwizard-auth-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard/dropwizard-auth/1.1.0/6ada0d88bd4bf3193b7e5a2b1689073870f30488/dropwizard-auth-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
